@@ -3,4 +3,4 @@
 Made using JLayer.
 
 ## SYSTEM UI
-![System UI](System UI/System UI.jpg)
+![System UI](SystemUI/SystemUI.jpg)
